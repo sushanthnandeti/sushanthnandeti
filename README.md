@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/sushanthnandeti/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sushanthnandeti)](https://github.com/sushanthnandeti/github-contribution-stats/)
