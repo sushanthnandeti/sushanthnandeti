@@ -27,7 +27,7 @@ Portfolio: https://www.sushanthn96.com
 Pursuing Masters in Computer Science at Pace University with experience in Automation and Full Stack development. I'm a results-driven professional with a strong track record of managing critical Treasury business systems at Swiss Re, where I played a pivotal role in overseeing key systems, resulting in enhancement in operational efficiency. <br><br>My expertise extends to developing websites using cutting edge frameworks while managing and optimizing databases using Oracle,PostgreSQL,MongoDB and robust automation with Python and Shell scripting languages. Developed internal websites for the team that significantly improved the overall productivity.<br><br>Proficient in disaster recovery strategies, and facilitating seamless transitions through User Acceptance Testing (UAT).
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sushanthnandeti)](https://github.com/sushanthnandeti/github-contribution-stats/)
+
 
 
 ## 🌐 Socials:
