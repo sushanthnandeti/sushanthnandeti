@@ -24,7 +24,13 @@ Portfolio: https://www.sushanthn96.com
 
 
 # 💫 About Me:
-Pursuing Masters in Computer Science at Pace University with experience in Automation and Full Stack development. I'm a results-driven professional with a strong track record of managing critical Treasury business systems at Swiss Re, where I played a pivotal role in overseeing key systems, resulting in enhancement in operational efficiency. <br><br>My expertise extends to developing websites using cutting edge frameworks while managing and optimizing databases using Oracle,PostgreSQL,MongoDB and robust automation with Python and Shell scripting languages. Developed internal websites for the team that significantly improved the overall productivity.<br><br>Proficient in disaster recovery strategies, and facilitating seamless transitions through User Acceptance Testing (UAT).
+I’m Sushanth Nandeti, a passionate Software Engineer with a Master’s in Computer Science from Pace University, New York, and over 3 years of experience building innovative, scalable, and user-centric software solutions. My expertise spans across full-stack development, cloud infrastructure, CI/CD pipelines, and AI-powered applications, with a focus on delivering high-performance systems that drive business success. From e-commerce platforms and AI-driven SaaS tools to stock trading and finance applications, I thrive on solving complex challenges and creating impactful technology solutions.
+
+My work often involves leveraging advanced technologies like AWS, Redis, NeonDB, React.js, and Node.js to create scalable and efficient architectures. I also have hands-on experience with state management libraries like Redux and Zustand, which have enabled me to enhance application performance and deliver seamless user experiences.
+
+My experience also includes managing and resolving issues on both Windows and Linux production servers, ensuring uptime, scalability, and reliability for critical systems.
+
+Whether it’s designing cloud infrastructure, integrating AI solutions, optimizing complex systems for financial and stock trading applications, or maintaining production server health, I always look for a good challenge. I’m open to  collaborate on innovative ideas. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sushanthnandeti&theme=dark)](https://git.io/streak-stats)
 
