@@ -26,7 +26,7 @@ Portfolio: https://www.sushanthn96.com
 # 💫 About Me:
 I’m Sushanth Nandeti, a passionate Software Engineer with a Master’s in Computer Science from Pace University, New York, and over 3 years of experience building innovative, scalable, and user-centric software solutions. My expertise spans across full-stack development, cloud infrastructure, CI/CD pipelines, and AI-powered applications, with a focus on delivering high-performance systems that drive business success. From e-commerce platforms and AI-driven SaaS tools to stock trading and finance applications, I thrive on solving complex challenges and creating impactful technology solutions.
 
-My work often involves leveraging advanced technologies like AWS, Redis, NeonDB, React.js, and Node.js to create scalable and efficient architectures. I also have hands-on experience with state management libraries like Redux and Zustand, which have enabled me to enhance application performance and deliver seamless user experiences.
+My work often involves leveraging technologies React.js, Node.js, Django, FastAPI and cloud services (AWS) to create scalable and efficient architectures. I also have hands-on experience with state management libraries like Redux and Zustand, which have enabled me to enhance application performance and deliver seamless user experiences.
 
 My experience also includes managing and resolving issues on both Windows and Linux production servers, ensuring uptime, scalability, and reliability for critical systems.
 
