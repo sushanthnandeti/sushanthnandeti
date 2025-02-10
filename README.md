@@ -32,7 +32,7 @@ My experience also includes managing and resolving issues on both Windows and Li
 
 Whether it’s designing cloud infrastructure, integrating AI solutions, optimizing complex systems for financial and stock trading applications, or maintaining production server health, I always look for a good challenge. I’m open to  collaborate on innovative ideas. 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sushanthnandeti)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sushanthnandeti&theme=dark)](https://git.io/streak-stats)
 
 
 ## 🌐 Socials:
